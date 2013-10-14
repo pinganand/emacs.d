@@ -65,7 +65,7 @@
 (require 'init-erlang)
 (require 'init-javascript)
 (require 'init-php)
-;;;(require 'init-org)
+(require 'init-org)
 (require 'init-nxml)
 (require 'init-css)
 (require 'init-haml)
