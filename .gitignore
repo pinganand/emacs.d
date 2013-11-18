@@ -1,5 +1,6 @@
 /url/cache
 /.emacs.desktop
+/.emacs-places
 /auto-save-list
 /.session
 /custom.el
